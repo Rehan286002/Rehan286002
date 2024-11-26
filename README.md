@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan286002&label=Profile%20views&color=0e75b6&style=flat" alt="rehan286002" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **HTML,CSS & JS**
 
 - 📫 How to reach me **syedrehan286002@gmail.com**
 
