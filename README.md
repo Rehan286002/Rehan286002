@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **syedrehan286002@gmail.com**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/syed-rehan-0519a1328?trk=contact-info</h3>
+<h3 align="left">Connect with me: Linkedln:<br> https://www.linkedin.com/in/syed-rehan-0519a1328?trk=contact-info</h3>
 <p align="left">
 </p>
 
