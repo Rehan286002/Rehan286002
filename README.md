@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">A learner who has just started</h3>
+<h3 align="center">A Coder looking forward to making projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan286002&label=Profile%20views&color=0e75b6&style=flat" alt="rehan286002" /> </p>
 
